@@ -1,0 +1,16 @@
+{
+  "name": "progresscomp",
+  "version": "1.0.0",
+  "description": "A simple progress bar web component (Vue.js >= 2.5) with styling and labelling options.",
+  "main": "ProgressComp.vue",
+  "repository": "git+https://github.com/deandevl/ProgressComp.git",
+  "keywords": [
+    "Vue.js",
+    "ProgressComp"
+  ],
+  "author": "'Rick <deanr3@bardstown.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.9"
+  }
+}
